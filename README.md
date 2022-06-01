@@ -50,14 +50,14 @@
 **⚜️ Here you have some on my project I realised:**
 </br>
 </br>
-[![Clash-Defender](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=merko&repo=Clash-Defender)](https://github.com/FitzFlow/Clash-Defender)
-[![My_Runner](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=merko&repo=My_Runner)](https://github.com/FitzFlow/My_Runner)
-[![JAM#3](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=merko&repo=Epitech.Jam_3)](https://github.com/FitzFlow/Epitech.Jam_3)
+[![Clash-Defender](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=Clash-Defender)](https://github.com/FitzFlow/Clash-Defender)
+[![My_Runner](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=My_Runner)](https://github.com/FitzFlow/My_Runner)
+[![JAM#3](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=Epitech.Jam_3)](https://github.com/FitzFlow/Epitech.Jam_3)
 </br>
 </br>
 **I also have another private project, so do not hesitate to contact me on :**
 </br>
 </br>
-Email: florian.etheve@epitech.eu </br>
-LinkedIn: [Florian Etheve](https://www.linkedin.com/in/florian-eth%C3%A8ve-4aa095229/) </br>
-Discord: Fl0w#2053 </br>
+📩 Email: florian.etheve@epitech.eu </br>
+🌐 LinkedIn: [Florian Etheve](https://www.linkedin.com/in/florian-eth%C3%A8ve-4aa095229/) </br>
+⌨️ Discord: Fl0w#2053 </br>
