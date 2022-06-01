@@ -52,6 +52,7 @@
 </br>
 [![Clash-Defender](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=Clash-Defender)](https://github.com/FitzFlow/Clash-Defender)
 [![My_Runner](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=My_Runner)](https://github.com/FitzFlow/My_Runner)
+[![My_RPG](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=My_RPG)](https://github.com/FitzFlow/My_RPG)
 [![JAM#3](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=Epitech.Jam_3)](https://github.com/FitzFlow/Epitech.Jam_3)
 </br>
 </br>
