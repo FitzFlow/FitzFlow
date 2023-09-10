@@ -3,7 +3,7 @@
 **⚜️ I'm Florian ETHEVE (aka FitzFlow) ! ⚜️**
 </br>
 </br>
- 💻 I'm actually in second years at [@EPITECH](https://www.epitech.eu/) </br>
+ 💻 I'm actually in third years at [@EPITECH](https://www.epitech.eu/) </br>
  </br>
  ⚙️ I love to learn new technologies and new things in general</br>
  </br>
@@ -16,12 +16,16 @@
 </br>
 </br>
 ![C](https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![HTML5](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS3](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![JavaScript](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43.svg?style=for-the-badge&logo=CakePHP&logoColor=white)
 ![Python](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </br>
 </br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,19 +50,27 @@
 ![Microsoft Word](https://camo.githubusercontent.com/2a3883347abfc7702512c2c071980a1afa3a013e7766c96de2f3d173440f9379/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f576f72642d3242353739413f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d776f7264266c6f676f436f6c6f723d7768697465)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</br>
+</br>
+
+**🔄 I'm currently learning: 🔄**
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 </br>
 
-**⚜️ Here you have some on my project I realised:**
+**⚜️ Here you have some of my project and experiments I realised:**
 </br>
 </br>
 [![Clash-Defender](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=Clash-Defender)](https://github.com/FitzFlow/Clash-Defender)
 [![My_Runner](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=My_Runner)](https://github.com/FitzFlow/My_Runner)
 [![My_RPG](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=My_RPG)](https://github.com/FitzFlow/My_RPG)
 [![JAM#3](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=Epitech.Jam_3)](https://github.com/FitzFlow/Epitech.Jam_3)
+[![React Native Wk](https://github-readme-stats.vercel.app/api/pin/?username=FitzFlow&theme=dark&repo=react-native-wk)](https://github.com/FitzFlow/react-native-wk)
 </br>
 </br>
-**I also have another private project, so do not hesitate to contact me on :**
+**I also have another private projects or experiments, so do not hesitate to contact me on :**
 </br>
 </br>
 📩 Email: florian.etheve@epitech.eu </br>
