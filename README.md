@@ -54,7 +54,7 @@
 </br>
 </br>
 </br>
-**If you arz interested for anything, do not hesitate to contact me on :**
+**If you are interested for anything, do not hesitate to contact me on :**
 </br>
 </br>
 📩 Email: florian.etheve@epitech.eu </br>
