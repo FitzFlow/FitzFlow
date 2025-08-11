@@ -3,7 +3,7 @@
 **⚜️ I'm Florian ETHEVE (aka FitzFlow) ! ⚜️**
 </br>
 </br>
- 💻 I'm actually in fourth years at [EPITECH](https://www.epitech.eu/) </br>
+ 💻 I'm actually in fifth years at [EPITECH](https://www.epitech.eu/) </br>
  </br>
  ⚙️ I love to learn new technologies and new things in general</br>
  </br>
