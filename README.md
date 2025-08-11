@@ -1,20 +1,21 @@
-<h2>Welcome to my GitHub !</h2>
+<h2>Welcome to my GitHub!</h2>
 
-**⚜️ I'm Florian ETHEVE (aka FitzFlow) ! ⚜️**
-</br>
-</br>
- 💻 I'm actually in fifth years at [EPITECH](https://www.epitech.eu/) </br>
- </br>
- ⚙️ I love to learn new technologies and new things in general</br>
- </br>
- 📱 I'm interested in web and mobile development as well as cyber security in general</br>
- </br>
- 🌐 I also like to do sport, play video game and do photography</br>
-</br>
+**⚜️ Hey, I’m Florian ETHEVE, aka FitzFlow ⚜️**  
+<br/>
 
-**⚙️ I have skills in: ⚙️**
-</br>
-</br>
+💻 Currently rocking my **<ins>5th year</ins>** at [EPITECH](https://www.epitech.eu/) — always pushing the limits  
+
+Passionate about diving into new tech and constantly leveling up my skills  
+Focused on **<ins>web dev**</ins>, with a interest in **<ins>DevOps</ins>**, **<ins>cybersecurity</ins>** and all things digital security  
+<br/>
+
+🌐 Outside the code, I’m all about sports, gaming, and capturing life through photography  
+<br/>
+
+---
+
+**⚙️ Technologies I’ve worked with and used in various projects: ⚙️**
+</br></br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +39,6 @@
 </br>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
@@ -54,7 +54,7 @@
 </br>
 </br>
 </br>
-**If you are interested for anything, do not hesitate to contact me on :**
+**📬 Hit me up if you wanna connect:**
 </br>
 </br>
 📩 Email: florian.etheve@epitech.eu </br>
